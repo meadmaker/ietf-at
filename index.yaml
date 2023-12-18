@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  ietf-at:
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2023-12-18T10:48:29.943190278Z"
+    description: IETF Author Tools API
+    digest: 11e78068b88c97879309a47bef015352d054eb1b937016b2d73db258e3fa81f4
+    icon: https://authors.ietf.org/_assets/favicons/favicon-32x32.png
+    maintainers:
+    - email: mark@painless-security.com
+      name: Mark Donnelly
+    name: ietf-at
+    type: application
+    urls:
+    - https://github.com/meadmaker/ietf-at/releases/download/ietf-at-0.1.1/ietf-at-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-12-18T10:48:29.943199496Z"
